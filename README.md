@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola 👋, Mynor
+#### Analista de Datos
+![Analista de Datos](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Myncab/Myncab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta el análisis de los datos
 
-Here are some ideas to get you started:
+Habilidades: Excel/Power BI/SQL/Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en Microsoft 
+- 🌱 Estoy aprendiendo Power Query 
+- 👯 Quiero colaborar con IA 
+- 🤔 Necesito ayuda con Data Warehouse 
+
+
+
+
+
